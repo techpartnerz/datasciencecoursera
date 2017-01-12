@@ -1,0 +1,8 @@
+ssh
+env
+hostname 
+hist 
+hostid 
+netstat
+dig 
+uname
